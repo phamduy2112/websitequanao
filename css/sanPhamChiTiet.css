@@ -41,6 +41,16 @@
 .product-chitiet__icons{
     font-size: 15px;
 }
+.btn-primary-one{
+    background-color: white;
+    color:#42A4EC;
+    border: 1px solid #42A4EC;
+    transition: all .5s;
+}
+.btn-primary-one:hover{
+    background-color: #42A4EC;
+    color: white;
+}
 .product-chitiet__icons span{
     font-size: 13px;
 }

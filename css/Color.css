@@ -1,0 +1,25 @@
+/* Sai chung */
+
+.btn-primary-two{
+  background-color:#42A4EC ;
+
+color: white;
+}
+.btn-primary-two:hover{
+  border: 1px solid #42A4EC;
+}
+.btn-primary-one{
+  background-color: white;
+  color:#42A4EC;
+  border: 1px solid #42A4EC;
+  transition: all .5s;
+  
+}
+.btn-primary-one:hover{
+  background-color: #42A4EC;
+  color: white;
+}
+td.text-primary-one{
+  color: #42A4EC;
+  font-weight: 600;
+}

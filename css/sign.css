@@ -12,6 +12,18 @@
     /* width: 100%; */
     font-weight: 400;
 }
+.sign a{
+    color:#42A4EC
+}
+.sign .btn-primary{
+    background-color: #0095ff;
+    border: 1px solid #0095ff;
+   font-size: 17px;
+}
+.sign .btn-primary:hover{
+    background-color: white;
+    color: #42A4EC;
+}
 .sign .form-input{
     width: 100%;
     outline: none;
@@ -20,8 +32,21 @@
     border: 1px solid #d6d6d6;
     padding: 0 25px;
 }
+.sign .google{
+    background-color: orangered;
+    color: white;
+    border: 1px solid orangered;
+    cursor: pointer;
+}
+.sign .facebook{
+    background-color: #0095ff;
+    color: white;
+    border: 1px solid #0095ff;
+    cursor: pointer;
+}
 .sign form .forget{
     font-weight: 600;
+    color: #42A4EC;
 }
 .button-dangnhap div{
     width: 45%;
