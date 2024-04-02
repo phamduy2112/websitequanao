@@ -54,7 +54,7 @@ background-color: white;
   width: 9%;
   height: 33px;
  border: none;
- background-color:#42A4EC;
+ background-color:#001F5D;
   color: white;
 
 }
@@ -82,14 +82,14 @@ a{
   width: 20px;
   height: 20px;
   border-radius: 50%;
-  background-color: #42A4EC;
+  background-color: #001F5D;
   color: white;
   text-align: center;
   line-height: 20px;
 }
 .header-box-three{
   /* border: 1px solid black; */
-  background-color: #42A4EC;
+  background-color: #001F5D;
   width: 100%;
   height: 35px;
 
@@ -120,12 +120,17 @@ a{
   
   /* text-align: center; */
 }
+.sp-hot{
+  background-color: #001F5D;
+  padding: 1rem;
+ 
+}
 .box .box-item .text-box h4{
     font-size: 18px;
     /* line-height: 0; */
     margin-bottom: 0;
     margin-top: 10px;
-    color: #42A4EC;
+    color: #001F5D;
 }
 
 .title{
@@ -165,22 +170,15 @@ font-size: 18px;
 } 
 .card .btn-primary{
 background-color:white ;
-border: 1px solid #42A4EC;
-color: #42A4EC;
+border: 1px solid #001F5D;
+color: #001F5D;
 }
 .card .btn-primary:hover{
-background-color:#42A4EC ;
-border: 1px solid #42A4EC;
+background-color:#001F5D ;
+border: 1px solid #001F5D;
 color: white;
 }
-.btn-primary-two{
-  background-color:#42A4EC ;
 
-color: white;
-}
-.btn-primary-two:hover{
-  border: 1px solid #42A4EC;
-}
 .card .card-body h4{
   margin-bottom: .2rem;
 }
@@ -220,7 +218,7 @@ color: white;
   margin-top: 5px;
 }
 .footer-top{
-  background-color: #42A4EC;
+  background-color: #001F5D;
   width: 100%;
   height: 250px;
 }
@@ -279,4 +277,72 @@ width: 25%;
   display: flex;
   justify-content: center;
   align-items: center;
+}
+/* giảm giá */
+
+.section_coupons{
+  padding: 0;
+}
+.coupon_item{
+  background-color: white;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 1px 5px;
+  padding: 10px 20px;
+  position: relative;
+}
+.coupon_item .coupon_body {
+
+
+}
+.tron_container {
+  position: absolute;
+  top: 4px;
+  left: -5px;
+}
+.tron {
+  border-radius: 999px;
+  background: white;
+  border: 1px solid white;
+  width: 25px;
+  height: 20px;
+  margin-bottom: 0.7px;
+  z-index: 11;
+}
+.tron_container1 {
+  position: absolute;
+  top: 4px;
+  right: -5px;
+}
+.tron1 {
+  border-radius: 999px;
+  background: white;
+  border: 1px solid white;
+  width: 25px;
+  height: 20px;
+  margin-bottom: 0.7px;
+  z-index: 11;
+}
+
+.coupon_item .coupon_body .coupon_title {
+  font-size: 18px;
+  color:#001F5D;
+  font-weight: 600;
+  margin-bottom: 0px;
+}
+.coupon_desc{
+  color: #001F5D;
+}
+.coupon_h1{
+  margin-bottom: 0;font-size: 30px;color: #001F5D;font-weight: 900;
+}
+.coupon_vnd{
+  margin-bottom: 0;color: #001F5D;font-weight: 600;font-size: 20px;
+}
+.coupon_footer{
+  font-size: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.coupon_ma{
+  font-size: 16px;font-weight: 500;color: #001F5D;
 }

@@ -43,12 +43,12 @@
 }
 .btn-primary-one{
     background-color: white;
-    color:#42A4EC;
-    border: 1px solid #42A4EC;
+    color:#001F5D;
+    border: 1px solid #001F5D;
     transition: all .5s;
 }
 .btn-primary-one:hover{
-    background-color: #42A4EC;
+    background-color: #001F5D;
     color: white;
 }
 .product-chitiet__icons span{
@@ -56,9 +56,10 @@
 }
 .product-chitiet__right .price{
     font-size: 20px;
+  
 }
 .product-chitiet__right .price .priceDeal{
-    font-weight: 600;
+ font-weight: bold;
 }
 .product-chitiet p{
     font-size: 18px;

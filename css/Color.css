@@ -1,25 +1,35 @@
 /* Sai chung */
 
-.btn-primary-two{
-  background-color:#42A4EC ;
 
-color: white;
-}
-.btn-primary-two:hover{
-  border: 1px solid #42A4EC;
-}
 .btn-primary-one{
   background-color: white;
-  color:#42A4EC;
-  border: 1px solid #42A4EC;
+  color:#001F5D;
+  border: 1px solid #001F5D;
   transition: all .5s;
   
 }
 .btn-primary-one:hover{
-  background-color: #42A4EC;
+  background-color: #001F5D;
   color: white;
 }
 td.text-primary-one{
-  color: #42A4EC;
+  color: #001F5D;
   font-weight: 600;
+}
+.btn-primary-two{
+  background-color:#001F5D ;
+
+color: white;
+}
+.btn-primary-two:hover{
+  border: 1px solid #001F5D;
+}
+
+.btn-white{
+  background-color: white;
+  color: #001F5D;
+}
+.btn-white:hover{
+  background-color: whitesmoke;
+  
 }

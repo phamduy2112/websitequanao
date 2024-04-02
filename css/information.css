@@ -23,11 +23,12 @@
   }
   .information .information-box .information-box__top .information_item h3 {
     font-weight: bold;
-    font-size: 20px;
+    font-size: 17px;
     margin-bottom: 0;
   }
   .information .information-box .information-box__top .information_item p{
     margin-bottom: 0;
+    font-size: 15px;
   }
   .information .information-box .information-box__top img {
     width: 50px;
@@ -41,6 +42,14 @@
     padding: 5px 20px;
     border-bottom: 1px solid rgba(0, 0, 0, 0.099);
   }
+  .information .information-box .information-box__bottom ul li.active{
+    background-color: #001F5D;
+    
+  }
+  .information .information-box .information-box__bottom ul li.active a{
+    color: white;
+  }
+  
   .information .information-box .information-box__bottom ul li a {
     color: black;
   }

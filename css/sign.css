@@ -16,13 +16,13 @@
     color:#42A4EC
 }
 .sign .btn-primary{
-    background-color: #0095ff;
-    border: 1px solid #0095ff;
+    background-color: #012979;
+    border: 1px solid #001F5D;
    font-size: 17px;
 }
 .sign .btn-primary:hover{
-    background-color: white;
-    color: #42A4EC;
+    background-color: #031e53;
+   
 }
 .sign .form-input{
     width: 100%;
@@ -46,7 +46,7 @@
 }
 .sign form .forget{
     font-weight: 600;
-    color: #42A4EC;
+    color: #001F5D;
 }
 .button-dangnhap div{
     width: 45%;
