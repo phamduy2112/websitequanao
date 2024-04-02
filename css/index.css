@@ -115,10 +115,18 @@ a{
    background-color: white;
 }
 .box .box-item i{
-  font-size: 34px;
- 
-  
-  /* text-align: center; */
+  font-size: 25px;
+  color: #001F5D;
+  line-height: 40px;
+
+}
+.box_circle {
+  width: 40px;
+  height: 40px;
+  border: 1px solid #001F5D;
+  margin-bottom: 10px;
+  text-align: center;
+  border-radius: 50%;
 }
 .sp-hot{
   background-color: #001F5D;
