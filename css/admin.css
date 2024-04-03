@@ -276,7 +276,7 @@ ul{
 table{
     width: 100%;
     border-collapse: collapse;
-    border: 1px solid #00b4d8;
+    border: 1px solid #001F5D;
   
 
 }
@@ -294,12 +294,12 @@ table{
 .table___title .add{
     font-size: 16px;
     cursor: pointer;
-    color: #00b4d8;
+    color: #001F5D;
 }
 thead th{
 
 
-    background-color: #00b4d8;
+    background-color: #001F5D;
     color: white;
     font-size: 15px;
 }
@@ -472,7 +472,7 @@ background-color: white;
     font-weight: 500;
 }
 .item_sp .title_sp p:nth-child(2){
-    color: #00b4d8;
+    color: #001F5D;
     font-weight: 600;
 }
 .home-item .soluong{
